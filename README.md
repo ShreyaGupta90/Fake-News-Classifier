@@ -1,4 +1,4 @@
-# 🕵️‍♂️ Fake News Classification using LSTM
+nb# 🕵️‍♂️ Fake News Classification using LSTM
 
 Teaching machines to **smell lies in headlines**.  
 Predicting if a news headline is **Fake 🚫** or **Real ✔️** using deep learning.
